@@ -1,7 +1,7 @@
 # ProxyChecker
 > .NET application for checking web proxies.
 
-ProxyChecker is a WPF application with a modern design for cheking proxies.
+ProxyChecker is a WPF application with a modern design for checking proxies.
 
 ![](https://github.com/JessieSharp/ProxyChecker/blob/main/demo.png?raw=true)
 
