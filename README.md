@@ -5,13 +5,10 @@ ProxyChecker is a WPF application with a modern design for cheking proxies.
 
 ![](https://github.com/JessieSharp/ProxyChecker/blob/main/demo.png?raw=true)
 
-## Installation
+## Download
 
 Windows:
-
-`
-sdsd
-`
+https://github.com/JessieSharp/ProxyChecker/releases/tag/Latest
 
 ## Instrucion
 
