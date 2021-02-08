@@ -23,6 +23,7 @@ https://github.com/JessieSharp/ProxyChecker/releases/tag/Latest
   
 
 ## Release History
-
+* 1.0.0.1
+    * Fixed crash while trying to edit datagrid
 * 1.0.0.0
     * First release
