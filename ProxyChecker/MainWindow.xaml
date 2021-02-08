@@ -96,7 +96,7 @@
                 </StackPanel>
             </Grid>
             <Grid Margin="10 0 0 30" Column="1" Row="0" RowSpan="5">
-                <DataGrid AutoGenerateColumns="False" x:Name="DataGridProxies">
+                <DataGrid IsReadOnly="True" AutoGenerateColumns="False" x:Name="DataGridProxies">
                     <DataGrid.Columns>
                         <DataGridTextColumn Header="ID" Binding="{Binding Id}"/>
                         <DataGridTextColumn Header="IP" Binding="{Binding Ip}"/>
